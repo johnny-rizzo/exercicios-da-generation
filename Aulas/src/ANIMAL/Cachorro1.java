@@ -2,8 +2,6 @@ package ANIMAL;
 
 public class Cachorro1 extends Mae {
 
-	
-
 	public static void main(String[] args) {
 
         Mae pitbull = new Mae();
